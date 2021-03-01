@@ -1,0 +1,277 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: #e4f9f5;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 132px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+h2{
+    color: #e4f9f5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 15px;
+    text-align: center;
+}
+
+h3{
+    color: #e4f9f5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 15px;
+    text-align: center;
+}
+
+header{
+    color: #40514e;
+    background-color: #e4f9f5;
+    margin-top: 55px;
+    text-align: center;
+}
+
+p{
+    color: #444444;
+    line-height: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+label{
+    margin-left: 15px;
+}
+
+a{
+    color: #F7F7F7;
+}
+
+a:hover{
+    color: #30e3ca;
+    text-decoration: none;
+}
+
+/* classes */
+
+.navbar-custom{
+    background-color: #40514e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+  .container {
+      text-align: center;
+  }
+
+  .col {
+      text-align: justify;
+  }
+
+.button{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    margin-right: 125px;
+    margin-left: 125px;
+
+}
+
+.button a{
+    text-decoration: none;
+    color: #F7F7F7;
+}
+
+
+.input{
+    margin-left: 15px;
+}
+
+.col li{
+    font-size: 28px;
+    text-align: left;
+}
+
+.text-left{
+    color: #e4f9f5;
+}
+
+.text-right{
+    color: #e4f9f5;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card{
+    padding: 10px;
+}
+
+
+/* Experience section */
+
+.davisandelkinspic{
+    height: auto;
+    width: 520px;
+    margin: 10px;
+    padding-bottom: 30px;
+}
+
+.dedegree{
+    font-family: 'Courier Prime', monospace;
+    font-size: 25px;
+    color: #11999e;
+    margin-bottom: 0px;
+}
+
+.dename{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #40514e;
+}
+
+.detext{
+    text-align: justify;
+}
+
+.fairmontpic{
+    height: auto;
+    width: 520px;
+    margin: 10px;
+}
+
+.fsudegree{
+    text-align: right;
+    font-family: 'Courier Prime', monospace;
+    font-size: 25px;
+    color: #11999e;
+    margin-bottom: 0px;
+}
+
+.fsuname{
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.fsutext{
+    text-align: justify;
+}
+
+
+/* Home page quotes */
+
+.intro{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #40514e;
+    font-size: 24px;
+}
+
+.quote{
+    font-size: 19px;
+    font-style: italic;
+    font-family: 'Courier Prime', monospace;
+    color: #30e3ca;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: justify;
+}
+
+.quotename{
+    text-align: right;
+    font-family: 'Courier Prime', monospace;
+    font-size: 25px;
+    color: #40514e;
+    margin-bottom: 0px;
+}
+
+.quotejob{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #40514e;
+    text-align: right;
+}
+
+.picture{
+    margin-left: 10px;
+    margin-top: 50px;
+    height: 500px;
+    width: auto;
+    position: relative;
+}
+
+.experienceTable{
+    font-size: large;
+    margin: auto;
+}
+
+.contactform{
+    text-align: center;
+    color: #30e3ca;
+}
+
+.footer{
+    background-color: #40514e;
+}
+
+/* IDs */
+
+#Home{
+    background-color: #11999e;
+}
+
+#Experience{
+    background-color: #e4f9f5;
+}
+
+#Experience h2{
+    color: #11999e;
+}
+
+#Education{
+    background-color: #30e3ca;
+}
+
+#Education h2{
+    text-align: center;
+}
+
+#Skills{
+    background-color: #e4f9f5;
+}
+
+#Skills h2{
+    color: #11999e;
+}
+
+#Contact {
+    background-color: #11999e;
+}
+
+#Contact h2{
+    color: #e4f9f5;
+}
